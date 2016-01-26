@@ -1,0 +1,10 @@
+super basic:
+
+def joke():
+    print ('knock knock')
+    print ('Who is there?')
+    print ('Boo')
+    print ('Boo who?')
+    print ('There is no need to cry')
+    
+joke()
